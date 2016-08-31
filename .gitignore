@@ -1,0 +1,10 @@
+*.sdf
+Guidance/demo/camshift.2013.v12.suo
+*.pdb
+Guidance/demo/Release/run.obj
+*.obj
+Guidance/demo/Release/camshift.tlog/link.write.1.tlog
+*.tlog
+Guidance/demo/Release/camshift.2013.log
+*.exe
+*.avi
